@@ -1,3 +1,5 @@
+![Screen shot](https://github.com/rc1/TowerTo/raw/master/Screenshot.png)
+
 # TowerTo
 
 Click the Application to open the current Finder folder's git repository in Git Tower.
